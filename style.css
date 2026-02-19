@@ -60,7 +60,7 @@ header nav ul li a:hover {
 }
 
 .hero img {
-    max-width: 100%;
+    max-width: 25%;
     height: auto;
     margin: 20px 0;
 }
@@ -195,4 +195,5 @@ footer {
         font-size: 16px;
     }
 }
+
 
